@@ -22,5 +22,5 @@ def won?
 end
 
 def full?(board)
-  board.reject { |cell| cell.empty?  }
+  board.reject { |cell| cell.empty? }
 end
