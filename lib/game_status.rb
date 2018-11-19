@@ -25,3 +25,7 @@ def full?(board)
   filled_cells = board.reject { |cell| cell.empty? }
   filled_cells.size == 9
 end
+
+def draw?(board)
+
+end
