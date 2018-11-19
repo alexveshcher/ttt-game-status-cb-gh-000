@@ -29,6 +29,6 @@ end
 def draw?(board)
   board.full? && !board.won?
 
-  case board.won?
-    
+  if board.won?
+
 end
