@@ -15,8 +15,8 @@ WIN_COMBINATIONS = [
   [2,5,8] # right column
 ]
 
-def is_X_or_O
-
+def is_X_or_O?
+  
 end
 
 def won?
