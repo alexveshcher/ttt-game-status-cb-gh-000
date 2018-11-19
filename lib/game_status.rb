@@ -22,6 +22,8 @@ def won?
     win_index_3 = combination[2]
 
     position_1 = board[win_index_1]
+    position_1 = board[win_index_1]
+    position_1 = board[win_index_1]
   end
 end
 
