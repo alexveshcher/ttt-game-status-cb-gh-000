@@ -15,6 +15,8 @@ WIN_COMBINATIONS = [
   [2,5,8] # right column
 ]
 
+def 
+
 def won?
   WIN_COMBINATIONS.each do |combination|
     win_index_1 = combination[0]
@@ -24,6 +26,8 @@ def won?
     position_1 = board[win_index_1]
     position_2 = board[win_index_2]
     position_3 = board[win_index_3]
+
+    if 
   end
 end
 
