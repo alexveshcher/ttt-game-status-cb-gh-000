@@ -22,5 +22,5 @@ def won?
 end
 
 def full?(board)
-  board.select { "" }
+  board.select {  }
 end
