@@ -22,6 +22,6 @@ def won?
 end
 
 def full?(board)
-  board.reject { |cell| cell.empty? }
+  filled_cells board.reject { |cell| cell.empty? }
   board.size == 9
 end
