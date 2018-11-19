@@ -23,4 +23,5 @@ end
 
 def full?(board)
   board.reject { |cell| cell.empty? }
+  
 end
