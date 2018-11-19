@@ -21,6 +21,6 @@ def won?
   end
 end
 
-def full?
+def full?(board)
 
 end
