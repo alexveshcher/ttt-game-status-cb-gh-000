@@ -17,8 +17,10 @@ WIN_COMBINATIONS = [
 
 def won?
   WIN_COMBINATIONS.each do |combination|
-    
+
   end
 end
 
+def full?
 
+end
