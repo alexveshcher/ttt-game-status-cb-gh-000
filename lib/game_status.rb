@@ -15,7 +15,9 @@ WIN_COMBINATIONS = [
   [2,5,8] # right column
 ]
 
-def 
+def is_X_or_O
+
+end
 
 def won?
   WIN_COMBINATIONS.each do |combination|
@@ -27,7 +29,7 @@ def won?
     position_2 = board[win_index_2]
     position_3 = board[win_index_3]
 
-    if 
+    if
   end
 end
 
